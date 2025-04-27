@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package guia1;
+package guia23;
 
 /**
  *
- * @author elhac
+ * @author USER
  */
-public class Guia1 {
+public class Guia23 {
 
     /**
      * @param args the command line arguments
